@@ -1,0 +1,70 @@
+h1 {
+	color:rgb(199,130,131); 
+	font-weight: lighter;
+	font-style: italic;
+	font-size: 40px;
+	font-family: Arial;
+}
+
+h2 {
+	font-weight: 900;
+	text-decoration: underline;
+	color: rgb(79,81,140);
+}
+h5 {
+	font-weight: 900;
+	text-decoration: underline;
+	color: rgb(44,42,74);
+}
+body{
+	background-color: rgb(142,154,175);
+	font-family: Courier, monospace;
+}
+
+a {
+	text-decoration: none;
+	color: blue;
+}
+a:hover{
+	color: rgb(250,250,250);
+}
+p {
+	text-align: center;
+	text-align: justify;
+}
+.button-yellow{
+	background-color: yellow;
+	padding: 8px 20px; 
+	border-radius: 4px; 
+	color: white;
+	transition: border-radius 0.5; 
+}
+.button-yellow:hover{
+	color: white;
+	border-radius: 8px;
+}
+img {
+	height: 150px;
+	border-radius: 50%;
+}
+.white-card{
+	margin: 40px;
+	width: 700px;
+	padding: 10px;
+	border: 10px;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px rgba(0,0,0,0.1);
+	background-color: rgb(252, 211, 222);
+	text-align: center;
+}
+.container{
+
+}
+
+ul{
+	text-align: center;
+	list-style: none;
+	padding-left: 0;
+}
+
+
